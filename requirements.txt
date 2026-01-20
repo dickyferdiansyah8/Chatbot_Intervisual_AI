@@ -1,0 +1,25 @@
+# requirements.txt
+# Dependencies untuk Chatbot AI PT Intervisual
+
+# Core
+streamlit==1.31.0
+python-dotenv==1.0.0
+
+# AI & LLM
+groq==0.4.2
+
+# PDF Processing
+PyPDF2==3.0.1
+pdfplumber==0.10.3
+
+# Data Processing
+pandas==2.0.3
+openpyxl==3.1.2
+
+# Web Scraping (opsional)
+beautifulsoup4==4.12.2
+requests==2.31.0
+lxml==4.9.3
+
+# Utils
+Pillow==10.1.0
